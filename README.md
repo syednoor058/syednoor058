@@ -1,9 +1,7 @@
 ## ⚓ Ahoy, matey!  
 Ye’ve sailed into my GitHub waters 🌊 — a place where code roams free, ideas catch the wind,  
-and every repository holds a tale worth discoverin’.
-So, who’s brave enough to chase the prizes, plunder the knowledge,  
-and set sail on new adventures across the digital seas?
-🎡 Welcome aboard, traveler — the voyage begins now.
+and every repository holds a tale worth discoverin’.<br>So, who’s brave enough to chase the prizes, plunder the knowledge,  
+and set sail on new adventures?<br>🎡 Welcome aboard, traveler — the voyage begins now.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/729622548421279745) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shaed.noor/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shaed_noor/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaednoor/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syednoor058@gmail.com) 
