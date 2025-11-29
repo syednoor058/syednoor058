@@ -1,4 +1,4 @@
-## ⚓ Ahoy, matey!  
+## ⚓ ¡Ahoy, matey!
 Ye’ve sailed into my GitHub waters 🌊 — a place where code roams free, ideas catch the wind,  
 and every repository holds a tale worth discoverin’.<br>So, who’s brave enough to chase the prizes, plunder the knowledge,  
 and set sail on new adventures?<br>🎡 Welcome aboard, traveler — the voyage begins now.
