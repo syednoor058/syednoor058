@@ -11,6 +11,9 @@ and set sail on new adventures?<br>🎡 Welcome aboard, traveler — the voyage 
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app?user=syednoor058&theme=transparent&hide_border=true&exclude_days=Fri%2CSat&card_width=600&fire=EB6D22&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syednoor058&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syednoor058&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
