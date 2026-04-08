@@ -4,7 +4,6 @@
 🚀 Building scalable SaaS applications & high-performance web platforms  
 🌍 Based in Bangladesh  
 
----
 
 ## 🧠 About Me
 
@@ -18,32 +17,6 @@ I specialize in:
 
 I enjoy turning complex problems into clean, efficient, and user-friendly solutions.
 
----
-
-## ⚙️ Tech Stack
-
-### 🖥️ Frontend
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-### 🛠️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### 🗄️ Database
-- MongoDB
-
-### 🚀 Tools & DevOps
-- Git & GitHub
-- Vercel
-- Cloudinary
-- Postman
-
----
 
 ## 📌 Featured Projects
 
@@ -67,7 +40,6 @@ I enjoy turning complex problems into clean, efficient, and user-friendly soluti
 - Handles 100+ concurrent resume processing
 - Keyword gap detection & ATS optimization insights
 
----
 
 ## 📊 What I Bring
 
@@ -77,16 +49,6 @@ I enjoy turning complex problems into clean, efficient, and user-friendly soluti
 - ✅ Performance optimization mindset  
 - ✅ Clean, scalable, and maintainable code practices  
 
----
-
-## 🌱 Currently Exploring
-
-- AI-powered web applications  
-- Advanced system design  
-- Performance engineering  
-- Scalable frontend architecture  
-
----
 
 ## 📫 Let's Connect
 
@@ -95,11 +57,6 @@ I enjoy turning complex problems into clean, efficient, and user-friendly soluti
 - 🧑‍💻 GitHub: https://github.com/syednoor058  
 - 📧 Email: dev.syednoor@gmail.com  
 
----
-
-## ⚡ Fun Fact
-
-I enjoy building real-world systems and continuously improving my craft — always aiming to move from **good code → great systems**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/729622548421279745) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shaed.noor/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shaed_noor/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaednoor/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syednoor058@gmail.com) 
